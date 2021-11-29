@@ -13,4 +13,7 @@ Scraper script, that takes care of downloading images, video and datasheet from 
 # Usage:
 - open terminal 
 - make sure that you are located in Scraper/interview/interview
-- type: '''scrapy crawl lights_co_uk'''
+- type: ```scrapy crawl lights_co_uk```
+## After processing there will be a two new folders called: 
+- downloaded_files (there should be an video file and datasheet)
+- downloaded_images (there should be 9 images from swiper)
