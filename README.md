@@ -1,7 +1,7 @@
 # Scraper
 Scraper script, that takes care of downloading images, video and datasheet from website https://www.lights.co.uk/philips-hue-white-color-impress-led-pillar-light.html
 
-# Specific Requirements: 
+# Specific Requirements (For Selenium WebDriver): 
 - Mozzila Firefox Browser https://www.mozilla.org/
 - Geckodriver https://github.com/mozilla/geckodriver/releases
 # Installation:
